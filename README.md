@@ -1,2 +1,2 @@
 # Data-Science
-Projetos de Data Science em python
+Aqui se encontra a documentação de projetos pessoais de Data Science
